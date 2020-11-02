@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FundamentalsAssignments</string>
+    <string name="hello_max">Hello Max!</string>
+    <string name="hello_land_max">Hello land Max!</string>
 </resources>

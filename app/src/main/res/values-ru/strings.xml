@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Основы андроид</string>
+    <string name="hello_max">Привет Макс!</string>
+    <string name="hello_land_max">Привет из ланшафтной ориентации!</string>
+</resources>
